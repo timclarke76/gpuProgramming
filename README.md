@@ -67,6 +67,6 @@ cd gpuProgramming
 make
 
 # Execute
-cd assignment-02
+cd dist/assignment-02
 ./assignment-02
 ```
