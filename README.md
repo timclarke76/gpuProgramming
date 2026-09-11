@@ -1,4 +1,4 @@
-# 3D Graphics Engine
+# GPU Programming & Real-Time Rendering
 
 <center>
 
