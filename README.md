@@ -55,7 +55,7 @@ on a modern, highly decoupled architecture:
 * **Shaders:** GLSL
 * **Libraries:** GLFW, GLAD, GLM (Mathematics), Assimp (Model Loading),
   stb_image (Texture Loading)
-* **Build System:** Make
+* **Build System:** CMake
 
 ## Build Instructions
 ```bash
